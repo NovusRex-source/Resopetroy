@@ -1,4 +1,9 @@
 1
 2
 ,mnaesgvbajbghvfrefrvllkfb
+<<<<<<< HEAD
 ueasfzuzuehshfuhsfjsebnbngbsd
+=======
+vladrin usv
+dgj
+>>>>>>> bcd16408ee0bfb38ee0291fdb9c5e7f819a1760e
