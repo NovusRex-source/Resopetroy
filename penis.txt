@@ -1,2 +1,19 @@
+<<<<<<< HEAD
 amen bruda
 adsfgsdrawf
+=======
+
+
+
+
+
+
+
+
+
+
+
+
+
+asdfe
+>>>>>>> 4224aac140b0851c0a01e346ee10b96f59be7aa6
